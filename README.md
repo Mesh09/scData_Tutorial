@@ -1,3 +1,3 @@
 # scData_Tutorial
 
-[![Binder](https://static.mybinder.org/badge_logo.svg)](https://hub.mybinder.turing.ac.uk/user/mesh09-scdata_tutorial-6adf0kov/doc/tree/Tutorial_Template_Aging_Solution.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Mesh09/scData_Tutorial/main?labpath=Tutorial_Template_Aging_Solution.ipynb)
