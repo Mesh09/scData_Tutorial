@@ -1,4 +1,4 @@
-The data set that will be used in this Tutorial was generated in [Angelidis et al. (2020)](https://www.nature.com/articles/s41467-019-08831-9). To speed thongs up, we will use a smaller subset of cells, so do not worry if the results are not exactly as in the publication.  
+The data set that will be used in this Tutorial was generated in [Angelidis et al. (2020)](https://www.nature.com/articles/s41467-019-08831-9). To speed things up, we will use a smaller subset of cells, so do not worry if the results are not exactly as in the publication.  
 <p align="center">
 <img src="https://github.com/Mesh09/scData_Tutorial/blob/main/Plots/experimental_scheme.png" alt="drawing" width="950">
 </p>
